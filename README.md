@@ -1,6 +1,6 @@
 # zumas_pet_shop
 
-A new Flutter project.
+2nd year mobile application project
 
 ## Getting Started
 
